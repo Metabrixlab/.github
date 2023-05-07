@@ -18,8 +18,20 @@ Community Building: We are always looking to connect with others who share our p
 
 If you're interested in getting involved with our project, please don't hesitate to reach out. We'd love to hear from you!
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
+## Useful resources👩‍💻 
+ We believe that transparency and accessibility are key to fostering collaboration and innovation, so we're always looking for ways to make our documentation and resources available to the wider community.
+
+Here are some useful resources for getting started with our image-to-3D avatar generation technology:
+
+Documentation: Our documentation is available on our website, which includes tutorials, code examples, and technical specifications for our software. You can access it at [insert website link here].
+
+GitHub Repository: We have an active open-source community on GitHub, where we host our codebase, issue tracker, and project roadmap. You can find it at [insert GitHub link here].
+
+Community Forum: We have a community forum where users can connect with one another, ask questions, share ideas, and get support from our development team. You can find it at [insert community forum link here].
+
+In addition to these resources, we also host webinars, workshops, and other events to engage with the community and share our latest developments. If you're interested in attending or hosting an event with us, please don't hesitate to reach out.
+
+Lastly, we encourage the community to get involved with our project by sharing their feedback, ideas, and experiences. We believe that collaboration is key to advancing the field of image-to-3D avatar generation, and we're committed to working together to make this technology accessible to everyone.
 
 <!--
 
